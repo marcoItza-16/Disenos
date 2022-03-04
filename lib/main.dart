@@ -6,6 +6,7 @@ import 'package:disenos/src/pages/scroll_page.dart';
 import 'package:disenos/src/pages/botones_page.dart';
 
 //Diseños con Scroll 5
+//Merge remote-tracking branch
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
