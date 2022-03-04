@@ -5,7 +5,7 @@ import 'package:disenos/src/pages/basico_page.dart';
 import 'package:disenos/src/pages/scroll_page.dart';
 import 'package:disenos/src/pages/botones_page.dart';
 
-//Diseños con Scroll 3
+//Diseños con Scroll 4
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
