@@ -7,6 +7,7 @@ import 'package:disenos/src/pages/botones_page.dart';
 
 //Diseños con Scroll 5
 //Merge remote-tracking branch
+//Diseño Compuesto -Fondo y Gradiente
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
