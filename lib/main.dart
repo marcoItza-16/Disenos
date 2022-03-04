@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
 
 //commit Diseños Basicos
-    //Diseño Basico 2
+    //Diseño Basico 3
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Diseños',
